@@ -1,4 +1,4 @@
-module final-project-twelfth-sprint
+module github.com/NotUrBruddah/final-project-twelfth-sprint
 
 go 1.22.2
 
